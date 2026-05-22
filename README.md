@@ -30,6 +30,26 @@ To perform a study on Socket Programming
 
 •	Socket programming involves a set of functions provided by the operating system or programming language to create, bind, listen, accept, connect, send, and receive data through sockets.
 •	Examples of functions include socket(), bind(), listen(), accept(), connect(), send(), and recv().
+1. Establishes communication between client and server systems.
+
+2. Enables reliable data transfer using TCP sockets.
+
+3. Supports real-time message exchange between devices.
+
+4. Helps in implementing client-server architecture.
+
+5. Allows file transfer between systems over a network.
+
+6. Provides connection-oriented communication for secure transmission.
+
+7. Uses IP address and port number for device identification.
+
+8. Supports bidirectional communication between applications.
+
+9. Helps understand networking concepts practically using Python sockets.
+
+10. Used in applications like chat systems, web servers, and online services.
+
 
 ## Server-Side Operations:
 
